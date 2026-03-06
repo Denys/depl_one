@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "coursera": {
+      "command": "python3",
+      "args": ["${workspaceFolder}/coursera_mcp_server.py"]
+    }
+  }
+}
